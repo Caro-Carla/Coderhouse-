@@ -1,0 +1,11 @@
+Instalación de la base de datos gestioncomercialintegral.
+
+Orden de ejecución de archivos(script):
+1.E3_Caro_Tablas
+2.E3_Caro_Vistas
+3.E3_Caro_Funciones
+4.E3_Caro_Procedimientos
+5.E3_Caro_Disparadores
+6.E3_Caro_DCL
+7.E3_Caro_TCL
+8.E3_Caro_Backup
